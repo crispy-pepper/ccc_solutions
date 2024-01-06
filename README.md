@@ -81,7 +81,7 @@ Every solution listed scores a 15/15 on the CCC grader
 | :--- | :---: | ---: |
 |J1|❌|✔️|
 |J2|❌|✔️|
-|J3|❌|✔️|
+|J3-S1|❌|✔️|
 |J4|✔️|✔️|
 |J5-S3|❌|✔️|
 |S2|❌|✔️|
