@@ -3,6 +3,13 @@ Every solution listed scores a 15/15 on the CCC grader
 <br>
 **note 2010 seniors were graded in DMOJ because CEMC did not provide the grader for that contest
 # Available Solutions
+## 2022
+| Problem           | Python   | C++   |
+| :---------------- | :------: | ----: |
+|J1|✔️|❌|
+|J2|✔️|❌|
+|J3|✔️|❌|
+|S4|✔️|❌|
 ## 2021
 | Problem           | Python   | C++   |
 | :---------------- | :------: | ----: |
