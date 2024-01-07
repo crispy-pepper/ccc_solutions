@@ -44,26 +44,11 @@ ul.hyphen > li::marker {content: "-  ";}
 
 img.heading {display: block;margin-left: auto;margin-right: auto;}
   
-
-
-
 hr {color:#5c872a;}
 
-
-
-
-h1.heading {font-size:100;}
-h2.heading {font-size:60;}
-
+h1.heading {font-size:100;color: #ffffff;}
+h2.heading {font-size:60;color: #ffffff;}
 h2.back {color:#7cad42;background-color: transparent;text-decoration:none;font-size:150%;}
-
-h3.code {font-family:Courier New;font-size:48;}
-
-
-
 p.heading {font-size:48;}
-  
-p.code {font-family:Courier New;}
-
-
+p {color: #ffffff;}
 p.beside-left {float:left;font-size:15}
