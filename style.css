@@ -1,10 +1,71 @@
-body {
-    background-color: #2d2d2d;
-    
-    font-family: 'Lexend Deca', sans-serif;
-}
-table {
-    background-color: #171717;
-    
-    font-family: 'Lexend Deca', sans-serif;
-}
+td {padding: 10px;border: 1px solid black;border-collapse: collapse;font-family:Architects Daughter;}
+
+body {background-color:#e3ffc2}
+  
+table {width:50%;background-color:rgb(255, 255, 255);}
+
+
+
+div.scroll{color:#7cad42;text-decoration: none;}
+
+
+  
+a.td:link {color:#7cad42;text-decoration: none;background-color: transparent;font-family:Architects Daughter;}  
+a.td:visited {color:#7cad42;text-decoration: none;background-color: transparent;font-family:Architects Daughter;} 
+a.td:hover {color:#ffffff;background-color:#000000;font-family:Architects Daughter;}
+a.td:active {color:#aeff4f;background-color: transparent;text-decoration: none;font-family:Architects Daughter;}
+ 
+a.heading:link {color:#7cad42;text-decoration: none; background-color: transparent;text-align:center;font-family:Architects Daughter;font-size:20px;}
+a.heading:visited {color:#7cad42;text-decoration: none; background-color: transparent;text-align:center;font-family:Architects Daughter;font-size:20px;}
+a.heading:hover {color:#ffffff;text-decoration:underline; background-color:black;text-align:center;font-family:Architects Daughter;font-size:20px;}
+
+a:link {color:#aeff4f;background-color:transparent;text-decoration:none;font-family:Architects Daughter;}  
+a:visited {color:#7cad42;background-color:transparent;text-decoration:none;font-family:Architects Daughter;} 
+a:hover {color:#ffffff;background-color:#000000;text-decoration:underline;font-family:Architects Daughter;}
+a:active {color:#aeff4f;background-color: transparent;text-decoration:none;font-family:Architects Daughter;}
+  
+a.back:link {color:#7cad42;background-color: transparent;text-decoration:none;font-size:150%;font-family:Architects Daughter;}  
+a.back:visited {color:#7cad42;background-color: transparent;text-decoration:none;font-size:150%;font-family:Architects Daughter;} 
+a.back:hover {color:#ffffff;background-color:#000000;font-size:150%;font-family:Architects Daughter;}
+a.back:active {color:#7cad42;background-color: transparent;text-decoration:none;font-size:150%;font-family:Architects Daughter;}
+
+a.d:link {color:#7cad42;background-color: transparent;text-decoration:none;font-size:150%;font-family:Architects Daughter;text-align:center;}  
+a.d:visited {color:#7cad42;background-color: transparent;text-decoration:none;font-size:150%;font-family:Architects Daughter;text-align:center;} 
+a.d:hover {color:#ffffff;background-color:transparent;font-size:150%;font-family:Architects Daughter;text-align:center;}
+a.d:active {color:#7cad42;background-color: transparent;text-decoration:none;font-size:150%;font-family:Architects Daughter;text-align:center;}
+
+
+
+
+ul.hyphen > li::marker {content: "-  ";font-family:Architects Daughter;}
+ol {font-family:Architects Daughter;}
+
+
+
+
+img.heading {display: block;margin-left: auto;margin-right: auto;}
+  
+
+
+
+hr {color:#5c872a;}
+
+
+
+
+h1.heading {font-size:100;font-family:Architects Daughter;}
+h2.heading {font-size:60;font-family:Architects Daughter;}
+
+h2.back {color:#7cad42;background-color: transparent;text-decoration:none;font-size:150%;font-family:Architects Daughter;}
+
+h3.code {font-family:Courier New;font-size:48;}
+
+
+
+p.heading {font-size:48;font-family:Architects Daughter;}
+  
+p.code {font-family:Courier New;}
+
+p {font-family:Architects Daughter;}
+
+p.beside-left {font-family:Architects Daughter;float:left;font-size:15}
