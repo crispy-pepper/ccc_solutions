@@ -1,9 +1,22 @@
-# CCC Solutions
+# Canadian Computing Competition (CCC) Solutions
 [Website](https://crispy-pepper.github.io/ccc_solutions/)
 <br>
 Every solution listed scores a 15/15 on the CCC grader
 <br>
 **note 2010 seniors were graded in DMOJ because CEMC did not provide the grader for that contest
+
+Information about the contest:
+[https://cemc.uwaterloo.ca/contests/computing.html](https://cemc.uwaterloo.ca/contests/computing.html)
+
+Past Contests:
+[https://cemc.uwaterloo.ca/contests/past_contests.html](https://cemc.uwaterloo.ca/contests/past_contests.html)
+
+CCC Grader:
+[https://cccgrader.com/index.php](https://cccgrader.com/index.php)
+
+DMOJ:
+Solutions can be submitted to DMOJ anytime. There are also more test cases and time contraints. Full marks in the CCC grader does not guarantee full mark on DMOJ
+[https://dmoj.ca/](https://dmoj.ca/)
 # Available Solutions
 ## 2022
 | Problem | Python | C++ |
